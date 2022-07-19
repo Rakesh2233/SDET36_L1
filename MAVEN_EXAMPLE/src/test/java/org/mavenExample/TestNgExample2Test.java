@@ -16,7 +16,7 @@ public class TestNgExample2Test {
 		
 		System.out.println(url);
 	
-		String pwd = System.getProperty("PASSWORD");
+		String pwd = System.getProperty("PASSWORD");//qwertyuiopasdfghjkl
 		System.out.println(pwd);
 	}
 }
