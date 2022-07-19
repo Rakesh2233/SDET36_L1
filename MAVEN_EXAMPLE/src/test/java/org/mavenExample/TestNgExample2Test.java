@@ -18,5 +18,10 @@ public class TestNgExample2Test {
 	
 		String pwd = System.getProperty("PASSWORD");//qwertyuiopasdfghjkl
 		System.out.println(pwd);
+		System.out.println("my name is rakesh");
+		System.out.println("my name is rakesh");
+		System.out.println("my name is rakesh");
+		
+		
 	}
 }
