@@ -11,5 +11,6 @@ public void practice1Test() {
 @Test 
 public void practice2Test() {
 	Reporter.log("Tyss--> test2",true);
+	System.out.println("hiiii i am rakesh");
 }
 }
