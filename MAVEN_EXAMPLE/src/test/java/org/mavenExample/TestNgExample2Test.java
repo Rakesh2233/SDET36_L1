@@ -14,7 +14,7 @@ public class TestNgExample2Test {
 		Reporter.log("Tyss--> test4",true);
 		String url=System.getProperty("URL");
 		
-		System.out.println(url);
+		System.out.println(url);//i did change
 	
 		String pwd = System.getProperty("PASSWORD");//qwertyuiopasdfghjkl
 		System.out.println(pwd);
