@@ -15,5 +15,6 @@ public void practice2Test() {
 	System.out.println("hiiii i am rajesh");//jenkin
 	
 	System.out.println("rakesh");//gh
+	System.out.println("rajesh");
 }
 }
