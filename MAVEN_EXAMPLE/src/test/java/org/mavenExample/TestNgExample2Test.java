@@ -13,7 +13,7 @@ public class TestNgExample2Test {
 		Reporter.log("Tyss--> test4",true);
 		String url=System.getProperty("URL");
 		System.out.println(url);
-		String pwd = System.getProperty("PASSWORD");
+		String pwd = System.getProperty("PASSWORD");//password changed
 		System.out.println(pwd);
 	}
 }
