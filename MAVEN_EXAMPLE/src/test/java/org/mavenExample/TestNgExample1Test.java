@@ -7,7 +7,7 @@ public class TestNgExample1Test {
 @Test
 public void practice1Test() {
 	Reporter.log("Tyss--> test1",true);
-}
+}//asdfghjkl;qwertyuiopasdfghjk
 @Test 
 public void practice2Test() {
 	Reporter.log("Tyss--> test2",true);
