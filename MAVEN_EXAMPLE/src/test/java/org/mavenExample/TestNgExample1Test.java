@@ -12,7 +12,7 @@ public void practice1Test() {
 public void practice2Test() {
 	Reporter.log("Tyss--> test2",true);
 	//System.out.println("hiiii i am rakesh");
-	System.out.println("hiiii i am rajesh");
+	System.out.println("hiiii i am rajesh");//jenkin
 	
 	
 }
